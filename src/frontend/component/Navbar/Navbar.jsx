@@ -7,6 +7,7 @@ function Navbar() {
         <a href="#">Home</a>
         <a href="#">Explore</a>
         <a href="#">Notifications</a>
+        <a href="#">Prueba</a>
       </div>
       <div>
         <div>
